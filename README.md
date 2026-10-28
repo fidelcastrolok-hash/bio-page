@@ -1,3 +1,1 @@
-what:
-who:
-why:
+# Bio Page\nPersonal developer bio page for SCS.
