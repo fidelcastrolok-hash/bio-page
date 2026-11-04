@@ -296,6 +296,8 @@ footer {
 
 .social-links a:hover {
   color: var(--primary-color);
+  font-size: 1.2rem;   
+  font-family: var(--heading-font); 
 }
 
 /* ==========================================
