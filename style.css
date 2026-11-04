@@ -48,15 +48,11 @@ button {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-left: 550px;
     margin-top: 50px;
+    text-align: center;
+    margin: center;
 }
 
 
-
-
-.h1{
-    font-family: var(--main-font);
-    color: var(--color-black);
-}
 
 .h2{
     font-family: var(--main-font);
@@ -77,8 +73,7 @@ button{
 
 
 body{
-    background-color: var(--color-white) ;
-   
+    background-color: var(--color-white) ;   
 
 }
 
@@ -91,4 +86,6 @@ body{
         .item {
             flex: 1 1 100%;
         }
-}
+}  
+
+
