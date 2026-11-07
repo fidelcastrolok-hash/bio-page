@@ -3,7 +3,7 @@
    ========================================== */
 :root {
   --primary-color: #2563eb;
-  --primary-hover: #0f172a; /* Deep dark slate to guarantee passing contrast */
+  --primary-hover: #e6bd42; /* Deep dark slate to guarantee passing contrast */
   --color-black: #0f172a;
   --color-white: #ffffff;
   --color-bg: #f8fafc;
