@@ -3,7 +3,7 @@
    ========================================== */
 :root {
   --primary-color: #2563eb;
-  --primary-hover: #1e40af; /* Darkened to meet 4.5:1 contrast ratio */
+  --primary-hover: #0f172a; /* Deep dark slate to guarantee passing contrast */
   --color-black: #0f172a;
   --color-white: #ffffff;
   --color-bg: #f8fafc;
@@ -11,7 +11,7 @@
   --text-muted: #64748b;
   --border-color: #e2e8f0;
 
-  /* Shadow variables added for Item 8 compliance */
+  /* Shadow variables for Item 8 compliance */
   --shadow-light: rgba(0, 0, 0, 0.05);
   --shadow-subtle: rgba(0, 0, 0, 0.08);
   --shadow-medium: rgba(0, 0, 0, 0.1);
